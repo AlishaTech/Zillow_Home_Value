@@ -1,0 +1,1 @@
+This report is about how the accessed value and crime rate affect the housing value in a Zestimate.
